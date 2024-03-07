@@ -1,0 +1,33 @@
+Creating a baseline setup and settings for ACC:
+Start with the aggressive preset.
+
+ACC Tires Page Baseline settings below.
+For toe angles, start with negative 0.15 (toe in) at the front and positive 0.05 (toe out) in the rear.
+Camber angle should be at the maximum negative value on all wheels.
+Caster set to maximum positive value.
+Tire pressure should be adjust per track to keep them in their optimal temperature.
+
+ACC Electronics Page Baseline settings below.
+Traction Control (TC), Anti-lock brakes (ABS) and ECU map can usually be left at default. ABS at 3 and TC around a similar value is good as well. TC2 should be set to zero.
+
+ACC Fuel and Strategy Page Baseline settings below.
+Set the fuel load according to the planned race duration.
+Brake pad setting should be on 1 for shorter races under 90 minutes.
+
+ACC Mechanical Grip Page Baseline settings below.
+Start by setting the front anti-roll bar to the maximum value and the rear anti-roll bar to the minimum value. You can increase the rear anti-roll bar by one or two clicks and reduce the front by one or two clicks if you want.
+Brake power leave at 100%.
+Brake bias set to about 25% of the slider because percentages are going to differ from car to car
+Steering ratio is preference. Try around 13 to 15.
+Wheel rate and bump stop rate should be set to the minimum on all wheels.
+Bump stop range should be set to the middle of the slider.
+Differential (diff) preload should be set to the minimum value on the slider.
+
+ACC Dampers Page Baseline settings below.
+Dampers can be set via the aid of software like Motec, which let's you view telemetry.
+For a simpler method, set all of the damper bump settings to their minimums and the damper rebound settings to their maximums.
+
+ACC Aero Page Baseline settings below.
+Set the front splitter to the minimum and rear wing to the maximum.
+Ride height should be left at the defaults in the aggressive preset. Alternatively, set the front ride height to the minimum and adjust the rear to shift the aero balance of the car forwards and backwards.
+Brake ducts should be adjusted per track to keep them in their optimal temperature.

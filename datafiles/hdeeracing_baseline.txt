@@ -1,0 +1,267 @@
+Overwhelmed?
+No idea what setup to start with or how to adjust  
+any setup to your driving level and  style in Assetto Corsa Competizione?
+Well, look no further, as today I’m gonna show you  how to go from being overwhelmed by all of this…
+to a great baseline setup and  just having to adjust this…
+This process will make it way easier to  get a setup that actually fits your skill  
+level and driving style, so you don’t  have to rely on other people’s setups.
+Welcome back to HDeeRacing.
+Just a quick disclaimer, I’m  not a pro driver or tuner.
+But these steps are based on what  pro drivers do with their setups  
+and I’ve had great success with them as  a somewhat intermediate level driver.
+I personally struggle a lot with  the aggressive preset for some cars.
+But with an easy to set up baseline,  
+it doesn’t take long for me to get  to a setup I can drive quite well.
+This all works in version 1.9.8.
+If future versions change anything  I’ll update you in the pinned comment.
+How to get to the baseline
+But let’s get going.
+To start with we’re going to have to make quite  
+a few changes to get to that  baseline I was talking about.
+Once you’re there though, the process of  adjusting the setup further is a lot easier.
+I would recommend getting started with the  
+safe preset if you’re very new  to ACC or racing in general.
+Otherwise start with the aggressive preset.
+In both cases follow along with  the adjustment I’m gonna show you.
+I’m not gonna explain a lot of  why we’re making certain changes,  
+as that would make this video  very long and convoluted.
+Some changes may seem very  counterintuitive and unrealistic,  
+but these settings work very well  in the current version of ACC.
+And that goes for not only the  GT3s, but also GT4s and GT2s.
+The latter just may have less  settings to adjust in some cases.
+So let’s now head ingame, so you can follow along.
+I'll go with the aggressive  preset for this demonstration
+So let's do some changes shall we?
+Tires Baseline
+First of all we are not going to talk about tire  pressures or brake ducts in this video, A because  
+they are very much dependent on the track and the  conditions, but also I've already done a video  
+showcasing how you set these correctly which  I will link for you if you need a refresher.
+But we are going to start with toe.
+Start setting this to negative 0.15 in  the front and positive 0.05 in the rear.
+This will be a very good starting point  that we can adjust later if necessar.
+For camber set this to the most negative value  you can both in the front and in the rear.
+This is almost always the best  option in ACC's current patch.
+For caster set this to the maximum value.
+This will give you a better turn  and response and also improved force  
+feedback feel so it's a very good option  to set this to the maximum in most cars.
+You may have to reduce it in some by a couple  of clicks if the turn in is a little bit too  
+harsh but as I said in most cars this is  the best option for ACC's current patch.
+Electronics Baseline
+Next we will head to the electronics page.
+Here you can almost always leave TC, ABS and ECU  map as it is set for your preset but if you have  
+TC2 available to you reduce that to zero as it  almost always hinders you more than it helps.
+We are going to talk about TC and  ABS a little bit more later on.
+Fuel & Strategy Baseline
+But let's now head to fuel and strategy.
+Here just set the fuel load that you want  to use for whatever you're doing and as I  
+said in the previous video if you're doing a  short race under 90 minutes go for brakes 1.
+Mechanical Grip Baseline
+And then we come to the most complicated section,  
+mechanical grip, but we are going  to make our life a lot easier here.
+Start by setting the front anti-roll bar  
+to the maximum value and the rear  anti-roll bar to the minimum value.
+Brake power just leave at 100% and Brake bias set  to about 25% of the slider because percentages  
+are going to differ from car to car so for  me I'm just going to set it somewhere here.
+Steering ratio you can almost always  leave as is and we're going to talk  
+a little bit more what that does and  if you want to adjust that later on.
+Now we come to the springs:
+Because it works so well and it makes our  life so much easier we are just going to  
+make the car very soft and that means  dropping both the wheel rate and the  
+bump stop rate to the minimum value  both on the front and on the rear.
+For bumpster range we're going to set it  to round about the middle of the slider  
+for now we're going to talk a little  bit more about it later but just get  
+it roughly to the middle right now and  this is how I'm going to set it for now.
+And the last thing to do is the preload  differential here at the bottom we are also  
+just going to drop that to the minimum value and  that is the mechanical grip section done for now.
+Dampers Baseline
+Let's now head to the dampers and  those are also very complicated  
+normally but we are going to make  our life a lot easier here as well.
+And it may seem very weird but we are just  going to reduce the bump both normal and  
+fast to the most negative (0 actually)  value both in the front and in the rear  
+and the rebound to the maximum value both  fast and normal and both front and rear.
+As I said may look weird but it works  very well in ACC right now and setting  
+dampeners correctly normally takes a lot of  effort in terms of going through telemetry  
+like Motec for example and we really  don't want to get into that right now.
+So that's the dampers done.
+Very easy, right?
+Aero Baseline
+Let's head into the Aero section:
+Here we are not going to talk about  brake ducts as I already said I've  
+explained how these work and how you set  them correctly in the previous video.
+What we are going to do is reduce the front  
+splitter to the minimum and the  rear wing to the maximum value.
+Right height we can leave as is for now  and it might be a little bit higher in  
+the front for you if you've picked the safe  preset but that's not a big deal for now.
+And that's already it: this is our Baseline setup.
+We can now work with this to make it  fit our driving style and our skill  
+level and also make it behave the way we want.
+Figure out what needs to be changed
+To do that we will however first need to  adjust brake ducts and tire pressures so  
+get on track and do that as I've  explained in the previous video.
+Once you have the correct pressures  and temperature you will then again  
+need to head out on track and do a few  laps to figure out how the car behaves  
+and what you actually want and need  to change from the Baseline setup.
+By the way in the background you're seeing me  
+driving the Mercedes AMG GT3 right now a  car that I haven't driven all that much.
+And this is with the aggressive preset so without  any of the changes that we just outlined and that  
+is just to show you how much I was struggling  with that and how much the adjustments that we  
+just made for the Baseline setup helped as we're  going to take a look at a lap afterwards with the  
+Baseline setup so where I went through the exact  same process that we just did for the McLaren.
+And you'll be able to see how much  easier it will be for me to handle  
+the car with the Baseline setup and  also how much faster I can go with it.
+While that's running in the background  let's talk about what we want to look  
+out for when driving the Baseline setup  with the adjusted tire pressures and  
+Brake ducts to figure out what we  actually still want want to change  
+on it to make it fit our driving style  and just behave the way that we want to.
+You want to take note of where your car over- or  
+understeers too much and in which  situations that exactly occurs.
+And that could be on Turn-In,  on brakes, on Corner entry exit,  
+on throttle, just mid Corner in general,  so you could maybe have some understeer  
+problems while on the brakes and  going into the corner and maybe  
+some oversteer while going on throttle if  you exit a corner, something like that.
+Just take note of the situations where  your car behaves not the way that you  
+want to be it understeering and not really  being able to turn or oversteering and the  
+rear snapping on you or the car just generally  becoming too unstable in certain situations.
+And if you've done that we can go back  to the setup screen and then talk about  
+what we can actually do if you experience  under- or oversteer in certain situations.
+Aero Adjustments
+This time we will start start in the aero section.
+Here we can play with both the front and the  rear right height and that will affect how  
+the car in general feels so if it's in  general more over- or more understeery.
+The difference between the front  and the rear is what is actually  
+affecting that the most and that's called Rake.
+More difference between the two means more rake  
+and means that the car will  overall be more oversteery.
+Lowering the difference between the two so  for example lowering the rear right height  
+or increasing the front will mean less  rake and the car being more understeery.
+If you started on the aggressive preset your front  ride height will probably already be quite low.
+On the safe preset however it is  most likely a little bit higher.
+If you want to affect your car to be  less understeery and more oversteery  
+then lowering the front is  probably your best option.
+That will also increase the aerodynamics  because the car is just lower to the ground.
+If you still need a little bit more  rotation on the car in general increase  
+the rear ride height a bit and if  you want less rotation decrease it,  
+it makes the car a little bit  more understeery but safer.
+For more specific problems we will now  head to the mechanical grip section.
+Mechanical Grip Adjustments
+Here we can take a look at brake bias first.
+If you notice that your car is  not behaving well while braking  
+be it to understeery or oversteery  this is a great setting to adjust.
+If you need more rotation so less understeer  while breaking you can lower this value more  
+and if you feel like it's rotating too  much and snapping on you while on braking  
+then you can increase it but generally lower  values will make you faster in the long run.
+Somewhat adjacent to that and tackling a  similar problem are the front Bump Stop ranges.
+Reducing these to the lowest value  would mean that the front suspension  
+can move almost not at all while  going on brakes or turning into a  
+corner which would lead to more  understeer in those situations.
+On the other hand if you increase this  to the maximum value that means that the  
+front suspension can move quite a lot more  and that would mean more traction on the  
+front which is good but that could increase  oversteer again because the balance between  
+front and rear is shifted and maybe the rear  then doesn't have enough traction anymore.
+So this is a value that you will  need to play with but generally  
+think of the front bump stop ranges  as with lower values meaning more  
+understeer and higher values meaning more  traction but potentially more oversteer.
+I generally set these somewhere between  the halfway and the 3/4 Mark so play with  
+these if you have problems going on  the brakes or turning into a corner.
+The rear Bump Stop ranges work pretty much the  same but they have a very different effect here.
+If you lower these to the lowest  value that once again means that  
+the suspension in the rear this time  can't really travel all that much but  
+that means that if you put weight on  it so if you accelerate that the rear  
+really has nowhere to go and it can start  sliding and that would increase oversteer.
+While on the other hand if you increase this  value to the maximum the rear suspension has  
+quite a lot of travel and that means  if you put the power down that the rear  
+can then move quite a bit and that would  reduce oversteer and increase understeer.
+So in general I would say once again put  this somewhere between the half way and  
+the 3/4 Mark and you're pretty much good to go.
+But just remember that contrary to  the front increasing this value will  
+increase understeer while lowering  it will increase oversteer and that  
+effect is strongest while  pushing down the throttle.
+Electronics Adjustments
+Let's Now quickly talk about Electronics  because the first setting here traction  
+control actually does something kind of similar to  
+what we did with the rear Bump Stop  ranges just in a very different way.
+Because TC is an electronic system that  interferes with the actual spinning of  
+your tires if it detects that you have  wheel spin or that you may be spinning  
+out because the left and the right side of  your wheels are not in sync enough anymore.
+And it will do that more if the value  is higher and that will mean that yes  
+it is safer to run higher values because  well it interferes more and prevents you  
+from spinning out while pushing down the  throttle but it will also make you slower.
+While on the other hand if you reduce  this value it will not interfere as much  
+or not at all if TC is off but that  would mean it's way more dangerous  
+to put down the throttle and if you're  not careful you can spin out easily.
+So be careful with this value stay  away from TC off if you're a beginner  
+and play with something between  like one and four maybe and you  
+can definitely take the values that are  in the safe or in the aggressive preset.
+One notable exception where you would run  way higher values is the Ferrari 296 which  
+actually can run something between like 6 and 8  easily because the TC on that car is very good.
+But normally for almost all other cars  something between 1 and four play with  
+this and if you notice that the system  is interfering too much reduce it and  
+if it's not interfering enough and  you're spinning out increase this.
+Next up is the ABS or your anti-lock  braking system and that as the name  
+suggests will prevent your wheels from  locking up if you push the brake too  
+hard which is something these cars  have and you should make use of that.
+But to high values would mean that  the ABS is interfering too much and  
+you will lose braking power because of  that and too low values or even setting  
+this to off would mean that you run  the risk of actually having lockups  
+in the wheels which will make your  car just slide and not brake at all.
+So generally a value between like one and  three is run on most cars sometimes you  
+can run a little bit higher again with a  Ferrari 296 it's a very notable exception  
+where you would run higher values  but in general just try to run as  
+as low of a value as possible so you  have the maximum braking power while  
+still not having lock up in the wheels  because the ABS isn't interacting enough.
+Tires Adjustments
+Last but not least let's take a  look at the tire section once again:
+As I said in the beginning we can  play with a toe a little bit more.
+And if we do that in the front by  reducing it we would improve our  
+Corner entry a little bit more by making  the car rotate more but that would come  
+at the cost of maybe having a little  bit more oversteer on Corner entry.
+If that's the case and you still  have that you can of course also  
+increase this value to have the car a  little bit more stable on Corner entry.
+But in general you want this value  in the front to be negative and I've  
+seen anything from like -0.1 to all  the way negative but that's a little  
+bit extreme for me so I usually  stay between like -0.25 to -0.1.
+So play with that if you want to  really fine-tune your corner entry.
+The rear toe is an excellent adjustment  for General stability because increasing  
+this value will also increase  the stability of your car most  
+of the time but it can come at  a cost of induced understeer.
+On the other hand if you want your car  to be a little bit more pointy but maybe  
+have a little bit more oversteer then  decreasing this value is a good idea.
+But I would generally stay away  from negative values in the rear  
+and stay between like zero and maybe 0.15.
+And that's all the adjustments that  I would make to the Baseline setup.
+With these you should be able to set the car  to your personal skill level and liking for  
+your driving style and not have to worry  about all the interplay between all the  
+different settings that there are because  as you have seen we've set a lot of those  
+to just standard values and are adjusting only  a few for very specific problems and purposes.
+My McLaren Setup
+Let me now quick show you my personal McLaren  
+setup for Barcelona that I also use  as a baseline for every other track.
+You can see that in the tires page I really  didn't change anything from the Baseline.
+On the electronics I just reduced ABS a bit  to have a little bit less interference but  
+left traction control at 3 though sometimes  I reduce it to two as well if I feel like it.
+In the mechanical grip section also pretty  much Baseline and I played with the bump  
+stop ranges in the front and the back  to have a little bit better feeling  
+for braking and accelerating and also  reduced brake bias a little bit as well.
+I also reduced the steering ratio by  one which I haven't talked about yet  
+but that just basically means  that I have to turn my steering  
+wheel less for the same amount  of turning of the actual wheels.
+So lower values means you have to turn the wheel  
+less and higher values mean that  you have to turn your wheel more.
+That is most of the time just personal  preference I at least in the McLaren  
+prefer the value to be a little  bit lower so play with this if  
+you are feeling like it's a little bit  sluggish or a little bit too Snappy.
+And in the aero section I just  increased the rear right height  
+a little bit from the Baseline to  have a little bit more rotation but  
+not too much because I didn't want  a very oversteery car in general.
+Does it work for you?
+And that's already it.
+I hope my method of setting a baseline setup and  
+then adjusting to what you feel  the car needs helps you out.
+If it does I would really appreciate  it if you left a like on the video and  
+considered subscribing to the channel for more  racing content both on acc and other games.
+If you have any questions or  problems with this let us know  
+in the comments down below and I or  others can hopefully help you out.
+If you're interested in some more  interesting racing content feel  
+free to click the video on screen right now.
+But with that I hope you enjoyed. I've  been HDeeRacing. Thanks a lot for watching.
+
