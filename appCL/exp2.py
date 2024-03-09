@@ -19,6 +19,7 @@ from langchain.prompts.prompt import PromptTemplate
 from langchain.schema import StrOutputParser
 from langchain.schema.runnable import Runnable
 from langchain.schema.runnable.config import RunnableConfig
+
 # from langchain_community.callbacks import ContextCallbackHandler
 from langchain_community.vectorstores import Chroma
 from langchain_core.documents.base import Document
@@ -46,7 +47,6 @@ async def init():
     )
     # context_callback = ContextCallbackHandler()
 
-
     # load documents, vectorize them into chroma, define doc retriever
     files_to_read = [
         "datafiles/baseline_setup.txt",
@@ -59,7 +59,9 @@ async def init():
             files_raw.append(f.readlines())
 
     file_data = [(" ".join(f)) for f in files_raw]
-    docs = [Document(f,metadata={"source":m}) for f,m in zip(file_data,files_to_read)]
+    docs = [
+        Document(f, metadata={"source": m}) for f, m in zip(file_data, files_to_read)
+    ]
 
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
     splits = text_splitter.split_documents(docs)
@@ -72,10 +74,13 @@ async def init():
     messages.append(HumanMessagePromptTemplate.from_template("{question}"))
     prompt = ChatPromptTemplate.from_messages(messages)
 
-    question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT, verbose=True)
+    question_generator = LLMChain(
+        llm=llm, prompt=CONDENSE_QUESTION_PROMPT, verbose=True
+    )
 
-    doc_chain = load_qa_with_sources_chain(llm, chain_type="stuff", verbose=True, prompt=prompt)
-
+    doc_chain = load_qa_with_sources_chain(
+        llm, chain_type="stuff", verbose=True, prompt=prompt
+    )
 
     # define the retrieval chain
     chain = ConversationalRetrievalChain(
@@ -95,21 +100,22 @@ async def on_message(message: cl.Message):
     runnable = cl.user_session.get("conversation_chain")
 
     # YOU CAN EITHER USE THIS CODE BLOCK
-    
-    text = await runnable.ainvoke({"question": message.content}, callbacks=[cl.AsyncLangchainCallbackHandler()])
+
+    text = await runnable.ainvoke(
+        {"question": message.content}, callbacks=[cl.AsyncLangchainCallbackHandler()]
+    )
     answer = text["answer"]
     msg = cl.Message(content=answer)
 
     await msg.send()
-    
 
     # OR THIS BLOCK TO MAKE THE TEXT GO TO THE SCREEN ALL PRETTY
-    # notice a chainlist message is used. 
+    # notice a chainlist message is used.
     # the astream (actually ainvoke) call to runnable is chunked
     # i dont think the order of the chunks is messed up, its just async python requiring everything contained to be async compatible.
     # streaming the output of chains gets weird though so...we're not using it for now :(
     # see: https://github.com/langchain-ai/langchain/discussions/4444
-    '''
+    """
     msg = cl.Message(content="")
     async for chunk in runnable.astream(
         {"question": message.content},
@@ -118,4 +124,4 @@ async def on_message(message: cl.Message):
         await msg.stream_token(chunk)
     
     await msg.send()
-    '''
+    """

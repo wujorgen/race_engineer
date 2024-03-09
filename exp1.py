@@ -13,7 +13,8 @@ from dotenv import load_dotenv, find_dotenv
 import os
 
 load_dotenv(find_dotenv())
-api_key = os.environ['OPENAI_API_KEY']
+api_key = os.environ["OPENAI_API_KEY"]
+
 
 @cl.on_chat_start
 async def on_chat_start():
@@ -40,7 +41,7 @@ async def on_message(message: cl.Message):
     # msg = cl.Message(content=text)
 
     # OR THIS BLOCK TO MAKE THE TEXT GO TO THE SCREEN ALL PRETTY
-    # notice a chainlist message is used. 
+    # notice a chainlist message is used.
     # the astream (actually ainvoke) call to runnable is chunked
     # i dont think the order of the chunks is messed up, its just async python requiring everything contained to be async compatible.
     msg = cl.Message(content="")
@@ -49,5 +50,5 @@ async def on_message(message: cl.Message):
         config=RunnableConfig(callbacks=[cl.LangchainCallbackHandler()]),
     ):
         await msg.stream_token(chunk)
-    
+
     await msg.send()
