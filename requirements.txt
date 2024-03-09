@@ -1,13 +1,18 @@
 python-dotenv
 langchain
+lanchain_core
+langchain_openai
+langchain_text_splitters
+langchain_community
 openai
-google-api-python-client # Google API
-google-search-results # SerpAPI
-youtube-transcript-api
+#google-api-python-client # Google API
+#google-search-results # SerpAPI
+#youtube-transcript-api
+chainlit
 chromadb
-tiktoken
-faiss-cpu
-wikipedia
-psycopg2
-pinecone-client
-pgvector
+#tiktoken
+#faiss-cpu
+#wikipedia
+#psycopg2
+#pinecone-client
+#pgvector

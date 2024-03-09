@@ -1,0 +1,3 @@
+https://towardsdatascience.com/integrating-an-external-api-with-a-chatbot-application-using-langchain-and-chainlit-b687bb1efe58
+
+just chainlit. play around with this, see if it's possible to cram it into flask.

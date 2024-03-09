@@ -1,3 +1,6 @@
 racenv/
+venv/
 .env
+.chainlit
+__pycache__
 Flowise/
