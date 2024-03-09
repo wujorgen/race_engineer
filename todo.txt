@@ -1,3 +1,5 @@
-https://towardsdatascience.com/integrating-an-external-api-with-a-chatbot-application-using-langchain-and-chainlit-b687bb1efe58
+https://betterprogramming.pub/harnessing-retrieval-augmented-generation-with-langchain-2eae65926e82
+based off of this
 
+https://towardsdatascience.com/integrating-an-external-api-with-a-chatbot-application-using-langchain-and-chainlit-b687bb1efe58
 just chainlit. play around with this, see if it's possible to cram it into flask.

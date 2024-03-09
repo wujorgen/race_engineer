@@ -12,8 +12,8 @@ PINECONE_API_KEY="another-meaningless-string-of-letters"
 Then, cd to the appCL folder and start the app with this command:
 ```
 $ cd appCL
-$ chainlit run exp2.py
+$ chainlit run app.py
 
 # alternatively, you can run with the watch flag to auto-reload the web app as you make changes
-$ chainlit run exp2.py -w
+$ chainlit run app.py -w
 ```
