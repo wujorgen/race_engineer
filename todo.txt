@@ -3,3 +3,6 @@ based off of this
 
 https://towardsdatascience.com/integrating-an-external-api-with-a-chatbot-application-using-langchain-and-chainlit-b687bb1efe58
 just chainlit. play around with this, see if it's possible to cram it into flask.
+
+https://plainenglish.io/blog/integrating-flask-and-streamlit
+putting streamlit into a flask app using iframe and setting the src to the app
