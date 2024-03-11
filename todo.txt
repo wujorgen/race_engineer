@@ -5,4 +5,6 @@ https://towardsdatascience.com/integrating-an-external-api-with-a-chatbot-applic
 just chainlit. play around with this, see if it's possible to cram it into flask.
 
 https://plainenglish.io/blog/integrating-flask-and-streamlit
-putting streamlit into a flask app using iframe and setting the src to the app
+putting streamlit into a flask app using iframe and setting the src to the app 
+-> this works! just need to figure out why setting the iframe height to 100vh destroys it...
+-> start chainlit app -> start flask app -> one page on the flask app will have an iframe returning the port that chainlit is on

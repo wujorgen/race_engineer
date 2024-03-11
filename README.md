@@ -13,7 +13,9 @@ Then, cd to the appCL folder and start the app with this command:
 ```
 $ cd appCL
 $ chainlit run app.py
-
-# alternatively, you can run with the watch flag to auto-reload the web app as you make changes
-$ chainlit run app.py -w
 ```
+alternatively, you can run with the watch flag and headless flags, and specify a port:
+```
+$ chainlit run app.py -w -h
+```
+see chainlit docs for more https://docs.chainlit.io/backend/command-line
